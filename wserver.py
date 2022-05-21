@@ -54,7 +54,7 @@ page = """
     list-style: none;
     text-decoration: none;
     outline: none !important;
-    color: red;
+    color: white;
 }
 
 body{
